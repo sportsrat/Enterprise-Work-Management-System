@@ -1,11 +1,11 @@
-# Enterprise Work Management System 🏢🚀
+# Enterprise Work Management System 
 
 An end-to-end task tracking, project planning, and workforce collaboration platform designed to streamline operations, optimize resource allocation, and enhance team productivity across enterprise workflows.
 
 ---
 
 ## 📌 Table of Contents
-- [Try it]
+- [Try it](#-try-it-out)
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Architecture & Tech Stack](#-architecture--tech-stack)
@@ -24,10 +24,10 @@ The **Enterprise Work Management System** provides organizations with a central 
 
 ## ✨ Key Features
 
-- 📊 **Project & Task Management**: Create, assign, track, and update tasks with dynamic priorities and status workflows.
-- 👥 **Role-Based Access Control (RBAC)**: Secure access tailored for Administrators, Project Managers, and Team Members.
-- ⏱️ **Resource & Time Tracking**: Monitor task durations, workload distributions, and project timelines.
-- 📈 **Analytics Dashboard**: Real-time visualization of project performance, team bandwidth, and completion rates.
+- **Project & Task Management**: Create, assign, track, and update tasks with dynamic priorities and status workflows.
+- **Role-Based Access Control (RBAC)**: Secure access tailored for Administrators, Project Managers, and Team Members.
+- **Resource & Time Tracking**: Monitor task durations, workload distributions, and project timelines.
+- **Analytics Dashboard**: Real-time visualization of project performance, team bandwidth, and completion rates.
 
 ---
 
