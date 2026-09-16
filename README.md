@@ -29,11 +29,9 @@ The **Enterprise Work Management System** provides organizations with a central 
 
 ## 🛠 Architecture & Tech Stack
 
-*(Update this section according to your stack)*
-
-- **Frontend**: React.js / HTML5/ CSS
-- **Backend**: Node.js / Express.js /
-- **Database**: PostgreSQL / MongoDB / MySQL
+- **Frontend**: React.js / CSS
+- **Backend**: Node.js / Express.js 
+- **Database**: MongoDB 
 - **Authentication**: JWT / OAuth 2.0
 
 
