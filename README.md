@@ -5,13 +5,17 @@ An end-to-end task tracking, project planning, and workforce collaboration platf
 ---
 
 ## 📌 Table of Contents
+- [Try it]
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Architecture & Tech Stack](#-architecture--tech-stack)
 - [Project Structure](#-project-structure)
 
 ---
+## Try it out 
+https://final-rouge-phi.vercel.app/
 
+---
 ## 🎯 Overview
 
 The **Enterprise Work Management System** provides organizations with a central hub to manage complex projects, track deliverables, manage team permissions, and monitor overall operational health through actionable analytics and real-time status reporting.
@@ -37,15 +41,3 @@ The **Enterprise Work Management System** provides organizations with a central 
 
 ---
 
-## 📁 Project Structure
-
-```text
-Enterprise-Work-Management-System/
-├── client/              # Frontend codebase (UI / Components)
-├── server/              # Backend codebase (API routes, logic)
-├── database/            # DB schemas, migrations, and seeds
-├── docs/                # Architecture diagrams & API documentation
-├── .env.example         # Template for environment configuration
-├── Dockerfile           # Containerization configuration
-├── package.json         # Project dependencies & scripts
-└── README.md            # Project documentation
