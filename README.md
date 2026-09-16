@@ -9,13 +9,6 @@ An end-to-end task tracking, project planning, and workforce collaboration platf
 - [Key Features](#-key-features)
 - [Architecture & Tech Stack](#-architecture--tech-stack)
 - [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
