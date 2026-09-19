@@ -25,7 +25,7 @@ The **Enterprise Work Management System** provides organizations with a central 
 ## ✨ Key Features
 
 - **Project & Task Management**: Create, assign, track, and update tasks with dynamic priorities and status workflows.
-- **Role-Based Access Control (RBAC)**: Secure access tailored for Administrators, Project Managers, and Team Members.
+- **Role-Based Access Control (RBAC)**: Secure access tailored for Administrators and Team Members.
 - **Resource & Time Tracking**: Monitor task durations, workload distributions, and project timelines.
 - **Analytics Dashboard**: Real-time visualization of project performance, team bandwidth, and completion rates.
 
